@@ -1,4 +1,4 @@
-# Pergunta 1 — O que é o Databricks?
+# Pergunta 1 - O que é o Databricks?
 
 ## Pergunta
 O que é o Databricks e quais problemas ele resolve?
