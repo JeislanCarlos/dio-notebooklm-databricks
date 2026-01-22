@@ -1,4 +1,4 @@
-# Projeto DIO — NotebookLM: Databricks
+# Projeto DIO - NotebookLM: Databricks
 
 Este repositório documenta um projeto educacional proposto pela DIO, cujo objetivo é utilizar o NotebookLM como ferramenta de aprendizagem ativa.
 
